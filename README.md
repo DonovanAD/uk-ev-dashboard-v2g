@@ -16,7 +16,7 @@ this stage.
 
 ## Live dashboard
 
-Live dashboard: [https://uk-ev-dashboard-v2g.vercel.app/](https://uk-ev-dashboard-v2g.vercel.app/)
+Live dashboard: [https://evdashboard.daguilardo.com](https://evdashboard.daguilardo.com)
 
 ## At a Glance
 
@@ -210,6 +210,6 @@ commercial optimisation service or commercial Gurobi-powered product.
 
 ## Links
 
-- Live dashboard: [https://uk-ev-dashboard-v2g.vercel.app/](https://uk-ev-dashboard-v2g.vercel.app/)
+- Live dashboard: [https://evdashboard.daguilardo.com](https://evdashboard.daguilardo.com)
 - GitHub: [DonovanAD](https://github.com/DonovanAD)
 - LinkedIn: [Donovan Aguilar](https://www.linkedin.com/in/donovanad/)
